@@ -23,5 +23,3 @@ If you want to hit me up for whatever reason, just DM me on Discord or send me a
 
 ### Other Applications:
 ![Gimp](https://img.shields.io/badge/GIMP-514C3C?logo=gimp&logoColor=FFFFFF) ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)
----
-[![](https://visitcount.itsvg.in/api?id=FRBFStudios&icon=0&color=0)](https://visitcount.itsvg.in)
