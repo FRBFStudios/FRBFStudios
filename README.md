@@ -1,5 +1,5 @@
 # Hi, I'm Theodor!
-Hello there, I'm Theodor! Currently, I'm an 11th grade high school student in Germany. Since I enjoy programming, playing video games as well as artistically expressing myself, I combined those three together and started learning how to program video games. Starting from Scratch (literally), I'm now looking to create a game engine in C++ and OpenGL. For the future, my plan is to study computer science at the Technical University of Munich.<br/><br/>
+Hello there, I'm Theodor! Currently, I'm a high school student in Germany. Since I enjoy programming, playing video games as well as artistically expressing myself, I combined those three together and started learning how to program video games. Starting from Scratch (literally), I'm now looking to create a game engine in C++ and OpenGL. For the future, my plan is to study computer science at the Technical University of Munich.<br/><br/>
 Aside from coding, I also like making videos on my YouTube channel. They're mostly gaming videos and uploads have recently been scarce, but I've also uploaded some of my newer Blender animations.
 
 ## Contact me
