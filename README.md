@@ -4,7 +4,7 @@
 ### <p align="center">Contact me</p>
 <p align="center">
   If you want to talk to me, just send me a Discord DM or EMail – I'm open for anything! You can also check out my YouTube channel.   <br><br>
-  <a href="https://discord.com/users/1133412840464724091"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"/></a>
+  <a href="https://discord.com/users/1339349222964858942"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"/></a>
   <a href="https://www.youtube.com/@FRBFStudios"><img src="https://img.shields.io/badge/YouTube-CD201F.svg?logo=YouTube&logoColor=white"/></a>
   <a href="mailto:tfroempp@outlook.de"><img src="https://img.shields.io/badge/EMail-0072C6?logo=maildotru&logoColor=white"/></a>
 </p>
